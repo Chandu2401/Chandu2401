@@ -2,7 +2,7 @@
 
 ### Web Developer | Frontend Developer
 
-I am a Web Developer with 1.7+ years of experience in developing and maintaining responsive websites and web applications.
+I am a Web Developer with 2+ years of experience in developing and maintaining responsive websites and web applications.
 
 I have hands-on experience with HTML5, CSS3, JavaScript, Bootstrap, jQuery, WordPress, PHP, and MySQL. I have worked on 10+ live client projects across different domains.
 
