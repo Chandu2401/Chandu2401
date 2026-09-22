@@ -11,7 +11,7 @@ Currently, I am strengthening my React.js skills and learning modern frontend de
 ## 👨‍💻 About Me
 
 - 💼 Web Developer at Invictus Web Solution
-- 🌐 1.7+ years of professional experience
+- 🌐 2+ years of professional experience
 - 🚀 Worked on 10+ live client websites
 - 🎓 Master of Computer Applications (MCA)
 - 💻 Interested in Frontend & Web Development
